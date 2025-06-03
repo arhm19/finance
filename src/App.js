@@ -313,9 +313,7 @@ const KostFinanceApp = () => {
             </div>
 
             <div className="mt-6 p-4 bg-pink-50 rounded-lg">
-              <h3 className="font-semibold text-sm mb-2">🌸 Info Login:</h3>
-              <p className="text-xs text-gray-600 mb-1">Username: arahma</p>
-              <p className="text-xs text-gray-600">Password: arahma123</p>
+              <h3 className="font-semibold text-sm mb-2">🌸Login Dulu yaa..🌸</h3>
             </div>
           </div>
         </div>
